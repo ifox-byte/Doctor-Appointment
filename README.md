@@ -2,9 +2,6 @@
 
 **A full-stack web app where patients book visits, doctors manage schedules and prescriptions, and admins oversee the system — all in one place.**
 
-[![Watch on YouTube](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube)](https://youtu.be/L6cgb7I-Ap4)
-[![Live demo — Netlify](https://img.shields.io/badge/Live_demo-Netlify-00C7B7?logo=netlify)](https://dental-doctor-ujjal.netlify.app/)
-
 ---
 
 ## In plain English: what is this?
@@ -76,7 +73,7 @@ Doctor-Appointment/          ← React app (run from here with npm start)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Ujjalzaman/Doctor-Appointment.git
+git clone https://github.com/danielTan8/Doctor-Appointment.git
 cd Doctor-Appointment
 ```
 
@@ -188,7 +185,7 @@ Older setup steps are also shown in this video (database provider may differ; **
 
 ## Screenshots
 
-![DoctorOnCall overview](https://github.com/Ujjalzaman/Doctor-Appointment/assets/49386888/eeed56ce-3d9a-464d-91e5-588ea81ec5c0)
+![DoctorOnCall overview](https://github.com/danielTan8/Doctor-Appointment/assets/49386888/eeed56ce-3d9a-464d-91e5-588ea81ec5c0)
 
 ---
 
@@ -203,10 +200,9 @@ Older setup steps are also shown in this video (database provider may differ; **
 
 ## Author & contact
 
-**Ujjal Zaman**
+**Daniel Tan**
 
-- **Website / portfolio:** [ujjalzaman.com](https://ujjalzaman.com/)  
-- **Email:** [ujjalzaman@gmail.com](mailto:ujjalzaman@gmail.com)
+- **Email:** [danieltan8@outlook.com](mailto:danieltan8@outlook.com)
 
 Have a product idea, a similar project, or want to collaborate? Reach out via the website or email — I’m happy to hear from you.
 
