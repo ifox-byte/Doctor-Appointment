@@ -175,20 +175,6 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## Video walkthrough
-
-Older setup steps are also shown in this video (database provider may differ; **this README uses Supabase**):
-
-[![YouTube](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube)](https://youtu.be/L6cgb7I-Ap4)
-
----
-
-## Screenshots
-
-![DoctorOnCall overview](https://github.com/danielTan8/Doctor-Appointment/assets/49386888/eeed56ce-3d9a-464d-91e5-588ea81ec5c0)
-
----
-
 ## Contributing
 
 1. Fork the repo and clone your fork.  
