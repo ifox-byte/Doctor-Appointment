@@ -73,7 +73,7 @@ Doctor-Appointment/          ← React app (run from here with npm start)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/danielTan8/Doctor-Appointment.git
+git clone https://github.com/ifox-byteTan8/Doctor-Appointment.git
 cd Doctor-Appointment
 ```
 
@@ -184,15 +184,6 @@ Open [http://localhost:3000](http://localhost:3000).
 
 ---
 
-## Author & contact
-
-**Daniel Tan**
-
-- **Email:** [danieltan8@outlook.com](mailto:danieltan8@outlook.com)
-
-Have a product idea, a similar project, or want to collaborate? Reach out via the website or email — I’m happy to hear from you.
-
----
 
 ## License & thanks
 
